@@ -18,10 +18,10 @@ They are also responsible for making decisions related to project direction, maj
 
 ### jQuery Team Members
 
-*   **Timmy Willison** - _Core Team Lead, Infrastructure_
+*   **Timmy Willison** - _Core Lead, Infrastructure_
 *   **Michał Gołębiowski-Owczarek** - _Core, UI_
-*   **Richard Gibson** - _Core, UI, former Sizzle lead_
-*   **Timo Tijhof** - _Infrastructure_
+*   **Richard Gibson** - _Core, QUnit, former Sizzle lead_
+*   **Timo Tijhof** - _QUnit, Infrastructure_
 
 Decision Making Process
 -----------------------
@@ -42,17 +42,19 @@ We welcome contributions from anyone interested in improving jQuery and related 
 
 All contributors are expected to adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md). This ensures that the jQuery community remains open, inclusive, and respectful.
 
-### How to Contribute
-
-1.  Fork the repository.
-2.  Make your changes in a feature branch.
-3.  Submit a pull request to the main repository.
-4.  Engage in code review and address feedback.
-
-Reporting Issues
-----------------
+### Reporting Issues
 
 If you encounter a bug or have a feature request, please open an issue on the relevant GitHub repository. Be sure to follow the issue template, provide a reduced test case if requested, and provide clear and detailed information to help us address the problem efficiently.
+
+### How to Contribute
+
+1. First, make sure there is an open issue related to your proposed changes.
+1. Fork the repository.
+1. Make your changes in a feature branch.
+1. Submit a pull request to the main repository.
+1. Engage in code review and address feedback.
+
+Find more information on contributing in the [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 Communication
 -------------
