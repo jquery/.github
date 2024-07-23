@@ -22,6 +22,7 @@ They are also responsible for making decisions related to project direction, maj
 *   **Michał Gołębiowski-Owczarek** - _Core, UI_
 *   **Richard Gibson** - _Core, QUnit, former Sizzle lead_
 *   **Timo Tijhof** - _QUnit, Infrastructure_
+*   **Felix Nagel** - _UI_
 
 Decision Making Process
 -----------------------
