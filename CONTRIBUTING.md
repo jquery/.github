@@ -3,7 +3,8 @@
 1. [Getting Involved](#getting-involved)
 2. [Questions and Discussion](#questions-and-discussion)
 3. [How To Report Bugs](#how-to-report-bugs)
-4. [Specific Projects](#specific-projects)
+4. [Unsolicited and Machine-Generated Contributions](#unsolicited-and-machine-generated-contributions)
+5. [Specific Projects](#specific-projects)
 
 ## Getting Involved
 
@@ -54,6 +55,18 @@ When experiencing a problem, [reduce your code](https://webkit.org/quality/reduc
 ### Search for related or duplicate issues
 
 Go to the GitHub issue tracker for the project and make sure the problem hasn't already been reported. If not, create a new issue there and include your test case.
+
+## Unsolicited and Machine-Generated Contributions
+
+jQuery is a mature, stability-focused project. Changes carry real compatibility risk, and every pull request costs maintainer time to review. To keep that time focused on work that benefits actual users, we require the following:
+
+**Contributions must address a real, demonstrated need.** Pull requests should correspond to an existing reported issue, a problem you personally encountered in real usage, or a change previously discussed with the maintainers. PRs that fix hypothetical problems, restyle working code, or make speculative "improvements" no user has asked for will be closed without review.
+
+**You must be able to engage with review as the author.** Whatever tools you use to write code, you are responsible for understanding and defending every line you submit. If you cannot explain why a change was made, answer questions about its approach, or revise it based on feedback, the PR will be closed.
+
+**Do not submit auto-generated issues or pull requests.** Issues and PRs produced by pointing an automated tool at this repository — rather than originating from genuine use of jQuery — are not welcome, whether you submit one or many. These will be closed without review, and repeat submissions may result in a ban from the project.
+
+Opening an issue describing a problem you actually hit, and discussing it before writing code, is always the best path to a merged contribution.
 
 ## Specific Projects
 
